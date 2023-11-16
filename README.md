@@ -94,6 +94,6 @@ Checkout my portfolio: <a href="https://agneslily.netlify.app/" target="_blank">
 
 ### Github Stats
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=agneslily4709&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="500" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agneslily4709&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="500" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=agneslily4709&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="300" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agneslily4709&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" width="300" alt="languages graph"/>
 </div>
