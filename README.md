@@ -8,6 +8,7 @@
 - 🏫 Loyola-ICAM College of Engineering and Technology (LICET)
 - 🥈 Consistent Academic Performer
 - 🖥️ Frontend | Backend | Database | Tech Explorer
+- 📊 Results speak louder than words
 
 Checkout my portfolio: <a href="https://agneslily.netlify.app/" target="_blank">✨HERE✨</a>
 
